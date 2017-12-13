@@ -1,2 +1,0 @@
-# jsp
-Je Suis Personality
